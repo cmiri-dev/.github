@@ -1,20 +1,16 @@
-# China Mobile Hong Kong Innovation Research Institute
+# China Mobile (Hong Kong) Innovation Research Institute
 
-<p align="center">
-  <strong>Connecting global innovation resources from Hong Kong to the world.</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.cmiri.hk">Website</a> ·
-  <a href="https://www.linkedin.com/company/cmiri">LinkedIn</a> ·
-  <a href="mailto:cmiri@cmi.chinamobile.com">Contact</a>
+<p align="right">
+  <a href="README.md">en</a> ·
+  <a href="README.zh-CN.md">zh-CN</a> ·
+  <a href="README.zh-HK.md">zh-HK</a>
 </p>
 
 ---
 
 ## 👋 About Us
 
-**China Mobile Hong Kong Innovation Research Institute Co., Limited** is an international innovation and research platform established to connect global R&D resources, strengthen cross-border collaboration, and support the global expansion of China Mobile’s core capabilities and products.
+**China Mobile (Hong Kong) Innovation Research Institute Co., Limited** is an international innovation and research platform established to connect global R&D resources, strengthen cross-border collaboration, and support the global expansion of China Mobile’s core capabilities and products.
 
 Based in Hong Kong and facing the world, we aim to leverage Hong Kong’s unique role as an international bridge to build a globally collaborative R&D ecosystem. We focus on high-quality international technology cooperation, global talent engagement, industry-academia-research collaboration, and international organization operations.
 
@@ -82,7 +78,7 @@ Areas of collaboration may include AI research, 6G innovation, Web 3.0 infrastru
 
 ## 📍 Contact
 
-**China Mobile Hong Kong Innovation Research Institute Co., Limited**
+**China Mobile (Hong Kong) Innovation Research Institute Co., Limited**
 28/F, Tower 1, Kowloon Commerce Centre
 51 Kwai Cheong Road, Kwai Chung
 New Territories, Hong Kong
@@ -92,7 +88,3 @@ New Territories, Hong Kong
 **LinkedIn:** [China Mobile Hong Kong Innovation Research Institute](https://www.linkedin.com/company/cmiri)
 
 ---
-
-<p align="center">
-  <em>Based in Hong Kong. Connected to the world. Built for global innovation.</em>
-</p>
