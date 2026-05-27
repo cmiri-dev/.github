@@ -1,4 +1,10 @@
-# 中國移動香港創新研究院
+<p align="right">
+  <a href="README.md">English</a> ·
+  <a href="README.zh-CN.md">簡體中文</a> ·
+  <a href="README.zh-HK.md">繁體中文</a>
+</p>
+
+# 中國移動（香港）創新研究院
 
 <p align="center">
   <strong>立足香港，連接全球創新資源。</strong>
@@ -86,9 +92,9 @@
 香港新界葵涌葵昌路 51 號
 九龍貿易中心 1 座 28 樓
 
-**電郵：** [cmiri@cmi.chinamobile.com](mailto:cmiri@cmi.chinamobile.com)
-**官網：** [https://www.cmiri.hk](https://www.cmiri.hk)
-**LinkedIn：** [中國移動香港創新研究院](https://www.linkedin.com/company/cmiri)
+**電郵：** [cmiri@cmi.chinamobile.com](mailto:cmiri@cmi.chinamobile.com)  
+**官網：** [https://www.cmiri.hk](https://www.cmiri.hk)  
+**LinkedIn：** [中國移動（香港）創新研究院](https://www.linkedin.com/company/cmiri)
 
 ---
 

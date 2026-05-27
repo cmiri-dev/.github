@@ -1,9 +1,9 @@
 # China Mobile (Hong Kong) Innovation Research Institute
 
 <p align="right">
-  <a href="README.md">en</a> ·
-  <a href="README.zh-CN.md">zh-CN</a> ·
-  <a href="README.zh-HK.md">zh-HK</a>
+  <a href="README.md">English</a> ·
+  <a href="README.zh-CN.md">Simplified Chinese</a> ·
+  <a href="README.zh-HK.md">Traditional Chinese</a>
 </p>
 
 ---
@@ -83,8 +83,8 @@ Areas of collaboration may include AI research, 6G innovation, Web 3.0 infrastru
 51 Kwai Cheong Road, Kwai Chung
 New Territories, Hong Kong
 
-**Email:** [cmiri@cmi.chinamobile.com](mailto:cmiri@cmi.chinamobile.com)
-**Website:** [https://www.cmiri.hk](https://www.cmiri.hk)
-**LinkedIn:** [China Mobile Hong Kong Innovation Research Institute](https://www.linkedin.com/company/cmiri)
+**Email:** [cmiri@cmi.chinamobile.com](mailto:cmiri@cmi.chinamobile.com)  
+**Website:** [https://www.cmiri.hk](https://www.cmiri.hk)  
+**LinkedIn:** [China Mobile (Hong Kong) Innovation Research Institute](https://www.linkedin.com/company/cmiri)
 
 ---

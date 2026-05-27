@@ -1,4 +1,10 @@
-# 中国移动香港创新研究院
+<p align="right">
+  <a href="README.md">English</a> ·
+  <a href="README.zh-CN.md">Simplified Chinese</a> ·
+  <a href="README.zh-HK.md">Traditional Chinese</a>
+</p>
+
+# 中国移动（香港）创新研究院
 
 <p align="center">
   <strong>立足香港，连接全球创新资源。</strong>
@@ -14,9 +20,9 @@
 
 ## 👋 关于我们
 
-**中国移动（香港）创新研究院有限公司** 是面向国际科技创新合作设立的创新研究平台，致力于连接全球研发资源，强化跨境协同创新，支撑中国移动核心能力与产品走向全球。
+**中国移动（香港）创新研究院有限公司** 是面向国际科技创新合作而设立的创新研究平台，致力于连接全球研发资源，强化跨境协同创新，支撑中国移动核心能力与产品走向国际市场。
 
-我们立足香港、面向世界，发挥香港作为国际化桥梁的独特优势，构建全球协同的研发创新生态。我们重点推进高质量国际科技合作、全球创新人才汇聚、产学研用协同，以及国际组织运营支撑。
+我们立足香港、面向世界，发挥香港作为国际桥梁的独特优势，构建全球协同的研发创新生态。我们重点推进高质量国际科技合作、全球创新人才汇聚、产学研用协同，以及国际组织运营支撑。
 
 我们的使命是助力香港建设国际创新科技中心，同时推动全球信息通信产业的数字化、智能化转型。
 
@@ -26,7 +32,7 @@
 
 ### 人工智能
 
-我们聚焦大模型应用落地、大模型前沿研究探索，以及面向真实产业场景的 AI 解决方案集成与应用。
+我们聚焦大模型应用落地、大模型前沿研究探索，以及面向真实产业场景的 AI 解决方案整合与应用。
 
 ### Web 3.0
 
@@ -86,9 +92,9 @@
 香港新界葵涌葵昌路 51 号
 九龙贸易中心 1 座 28 楼
 
-**邮箱：** [cmiri@cmi.chinamobile.com](mailto:cmiri@cmi.chinamobile.com)
-**官网：** [https://www.cmiri.hk](https://www.cmiri.hk)
-**LinkedIn：** [中国移动香港创新研究院](https://www.linkedin.com/company/cmiri)
+**邮箱：** [cmiri@cmi.chinamobile.com](mailto:cmiri@cmi.chinamobile.com)  
+**官网：** [https://www.cmiri.hk](https://www.cmiri.hk)  
+**LinkedIn：** [中国移动（香港）创新研究院](https://www.linkedin.com/company/cmiri)
 
 ---
 
